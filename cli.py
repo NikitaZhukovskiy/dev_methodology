@@ -1,6 +1,5 @@
 from engine import run_game
-from games import gcd
-from games import progression
+from games import gcd, progression
 
 
 def main():
